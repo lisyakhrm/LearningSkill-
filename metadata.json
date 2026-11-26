@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Aksara",
+  "description": "Perpustakaan digital dan klinik belajar daring untuk meminjam buku, membaca di aplikasi, mengelola pustaka pribadi, dan memantau pengingat pengembalian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
